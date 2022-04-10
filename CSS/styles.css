@@ -14,7 +14,6 @@ list-style: none;
 .header{
  background-color: var(--other-color);
 }
-
 .header-accent{
 color: var(--accent-color);
 }
